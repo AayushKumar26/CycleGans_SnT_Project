@@ -217,7 +217,7 @@ The project establishes a foundation for advanced computer vision applications, 
 
 ## Project Leadership
 
-**Mentors:** Abhishek Khandelwal, Vidhi Jain, Kushagra Singh
+**Mentors:** [Abhishek Khandelwal](https://github.com/abhishekkh1701), [Vidhi Jain](https://github.com/Vidhiiijain), [Kushagra Singh](https://github.com/kushagraSingh100)
 
 ## References
 
